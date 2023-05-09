@@ -639,26 +639,26 @@ function GiveValveRocketLauncher(player){
 
 //hashes
 
-// developer_hashes <- [
+ developer_hashes <- [
 // 	"b0323d8a7e5ec7de58f84fb48075db93f672790091d82d1e6267d7be7b165070",
 // 	"4730f8cb2dcfa459324c08189f29db36f1b5480c9e3ef838a4dcae875e89356d"
-// ]
+ ]
 
-// vip_hashes <- [
+ vip_hashes <- [
 // 	"5b95f55c2d22dcf9723f58e91e5c87021edc13f0bf415905bb7a6f4bab5f10c1",
-// ]
+ ]
 
-// does_it_for_free <- [
+ does_it_for_free <- [
 // 	"5f1e2cd7c27361af2fa67bd8533d057805e021b892fabd1b046628ea76beddb6"
-// ]
+ ]
 
-// janitor_hashes <- [
+ janitor_hashes <- [
 // 	"5f1e2cd7c27361af2fa67bd8533d057805e021b892fabd1b046628ea76beddb6",
 // 	"d5a9a4938a4ccddf2257d538f77d7646173ef16fb05913d5a81b0ca8da5bc89b",
 // 	"7ed526ff761a4511e2b966dd5a7ba521d6bd733053be88c89a1b5429117b326c",
 // 	"684a681487003a2a3d16a4e5d920e678b0e7c9f2ef54e3a744f0110516b73396",
 // 	"f02bc6bc5545e7b881ead210b81185b2acdbf9aa50b34992c73e6981943cd8b7",
 // 	"fb8c0b680bd1f00955e6b4e7dbcc6ed747675cf4ded9107073347a3c749d1001"
-// ]
+ ]
 
 printl("Finished loading the edited Secrets!")
