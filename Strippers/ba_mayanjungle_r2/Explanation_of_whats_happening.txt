@@ -1,4 +1,0 @@
-What's happening is fairly simple, we are using the stripper:source plugin to remotely remove the original secrets.nut file and we are injecting our new updated one which comments out all the steamid's making the functions which rely on them useless.
-
-Stripper:Source does this by simply finding and deleting the original logic_script and then remaking it with our new edited .nut file. Even if the new .nut file is not packed into the map as long as it is uploaded onto the server's files in the exact same place that the new logic_script references, it will still work!
-
